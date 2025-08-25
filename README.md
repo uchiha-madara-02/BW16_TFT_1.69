@@ -13,6 +13,7 @@
 
 # ESP32 C3 supermini
 
-<img width="912" height="594" alt="image" src="https://github.com/user-attachments/assets/aec794ac-b36c-4981-8c38-8352e702818e" />
+<img width="946" height="611" alt="image" src="https://github.com/user-attachments/assets/b4bed1fd-3bcf-4871-97cd-405ee5954cdb" />
+
 
 
