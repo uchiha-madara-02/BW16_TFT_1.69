@@ -3,7 +3,7 @@
 * Anh em xem cách nạp file .bin cho BW16 ở kênh bác Nam Nobi nhé:
 * https://www.youtube.com/watch?v=q96H-Iu4dWs
   
-# Lưu ý: Anh em muốn jam ble và tv-b-gone thì phải nối thêm esp32 s3 supermini, V2 và V1 giống nhau về chân màn hình nhưng nút sẽ khác, anh e chú ý nhé, đợi mình up v3 sẽ có Evil Portal và Bad BLE
+# Lưu ý: Anh em muốn jam ble và tv-b-gone thì phải nối thêm esp32 s3 supermini, V2 và V1 giống nhau về chân màn hình nhưng nút sẽ khác, anh e chú ý nhé, đợi mình up v3 sẽ có Evil Portal và Bad BLE.
 
 # Sơ đồ V1
 
